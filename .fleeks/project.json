@@ -1,6 +1,9 @@
 {
+  "project_id": 1017,
   "cloud_url": "https://preview.fleeks.ai/shipnet/",
+  "git_remote": "https://github.com/victormugisha-lgtm/shipnet-react-v2.git",
+  "last_handoff": "2026-04-06T04:36:24.2065791+10:00",
+  "last_sync_commit": "e2962f561bfda4b53795352bf908f6d515d62226",
   "container_id": "d45c061c8156",
-  "created_at": "2026-04-06T04:22:03+10:00",
-  "project_id": 1017
+  "created_at": "2026-04-06T04:22:03+10:00"
 }
