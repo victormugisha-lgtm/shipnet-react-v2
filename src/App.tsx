@@ -255,7 +255,7 @@ export default function App() {
                     value={newDescription}
                     onChange={(e) => setNewDescription(e.target.value)}
                     placeholder="What did you build? What problem did it solve?"
-                    rows="4"
+                    rows={4}
                     className="w-full px-4 py-3 rounded-xl border border-gray-200 dark:border-gray-700 bg-transparent focus:ring-2 focus:ring-[#0A66C2] focus:border-transparent outline-none transition-all resize-none font-medium text-[15px]"
                   ></textarea>
                 </div>
